@@ -97,9 +97,12 @@ Your Feed:
    Likes: 5
    Comments: 
    - [User ID: 5678] Nice post!
+     
 👩‍💻 Authors
+
 Alvina Jiwani
 Student ID: 2312357
+https://github.com/Alvina6
 
 Rakhi Khatri
 Student ID: 2312383
@@ -113,4 +116,4 @@ This project demonstrates core programming concepts like hash tables, linked lis
 
 You can copy this and use it as your README file! Let me know if you'd like to adjust or add anything. 😊
    
-   
+@Alvina6 
